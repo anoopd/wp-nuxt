@@ -13,5 +13,7 @@ export default {
 }
 </script>
 <style>
-
+.container {
+    
+}
 </style>
